@@ -139,6 +139,10 @@ def simpleTest2():
 
 	plt.show()
 
+
+def testMatplot3d():
+		
+
 # simpleTest()
 class Usage(Exception):
     def __init__(self, msg):
