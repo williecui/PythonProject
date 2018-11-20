@@ -24,7 +24,8 @@ def newton(f,Df,x0,epsilon,max_iter):
         If Df(xn) == 0, return None. If the number of iterations
         exceeds max_iter, then return None.
 
-    Examples
+    Examples7
+    
     --------
     >>> f = lambda x: x**2 - x - 1
     >>> Df = lambda x: 2*x - 1
